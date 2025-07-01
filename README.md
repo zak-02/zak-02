@@ -1,5 +1,4 @@
-cccccbkdnihlrbngitdhveugjbitvjflgkuglnvbujtt
-# 💫 About Me:
+💫 About Me:
 🎓 Graduate in Computer Science<br>
 🚀 Passionate about Artifical Intelligence, App development and Software Engineering<br>
 📘 Skills include Python, C++, HTML/CSS
